@@ -1,6 +1,6 @@
 <h1 align="center">Lung-disease-prediction-from-X-ray-images</h1>
 
-This repository contains the final project for the *Neural Networks and Deep Learning* course, AY 2022/23.
+This repository contains the final project for the *Human Data Analytics* course, AY 2022/23.
 
 ***
 
